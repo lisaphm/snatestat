@@ -1,0 +1,31 @@
+,226305 Testat: CODEBUCH
+,
+,EDGE-Attribute
+,
+,id: eindeutige Codierung des Knoten
+,
+,from à to: Relation zwischen den Knoten
+,
+,NODE-Attribute
+,
+,id: eindeutige Codierung des Knoten
+,
+,"type: Person = 0, Organisation = 1"
+,
+,age: Natürliche Zahlen
+,
+,"commitee: Vorstand = 1, Aufsichtsrat = 2"
+,
+,"representation: Sport = S, Medien = M, Wirtschaft = W"
+,
+,"position: Vorsitz = VS, Stellvertreter = SV, Mitglied = MG"
+,
+,"place of birth: Geburtsort; MUC = Muenchen, STR = Stuttgart, NT = Nuertingen, Baden-Baden = BAD, Houston = HOU"
+,
+,"university: Universität; Konstanz = KN, Stuttgart = STG, Esslingen = ES, Karlsruhe = KA"
+,
+,"degree course: Studienfach; Verwaltungswissenschaften = VW, Maschinenbau = MB, BWL, Wirtschaftsingenieur = WIWI"
+,
+,"marriage: Verheiratet oder nicht; yes = 1, no = 2"
+,
+,kids: Anzahl der Kinder; Natürliche Zahlen
