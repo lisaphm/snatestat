@@ -1,0 +1,26 @@
+id,name,type,age,commitee,representation,position,place of birth,university,degree course,marriage,kids
+vorstand,Vorstand,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+thomas,Thomas Hitzlsperger,0,38,1,S,VS,MUC,NA,NA,NA,NA
+tobias,Tobias Keller,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oliver,Oliver Schraft,0,53,1,M,MG,STR,KN,VW,1,1
+aufsichtsrat,Aufsichtsrat,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+claus,Claus Vogt,0,51,2,W,VS,NT,STG,MB,1,3
+wilfried,Wilfried Porth,0,62,2,W,SV,BAD,STG,MB,1,3
+rainer,Rainer Adrion,0,67,2,S,MG,STR,STG,BWL,1,3
+hartmut,Hartmut Jenner,0,55,2,W,SV,STR,STG,BWL,1,3
+franz,Franz Reiner,0,53,2,W,MG,HOU,ES,WI,1,3
+bertram,Dr. Bertram Sugg,0,55,2,W,MG,STR,KA,NA,1,2
+ard,ARD,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dfb,DFB,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+fifa,FIFA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+vflwolfsburg,VfL Wolfsburg,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dfl,DFL,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bosch,Robert Bosch GmbH,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+haniel,Haniel Konzern,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+metro,Metro Group,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+intesia,Intesia Group Holding GmbbH,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+fcplayfair,FC PlayFair!,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+daimler,Daimler AG,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kaercher,Alfred Kaercher SE,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+courage,Fanclub Courage Gerlingen,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+vfbstuttgart,VfB Stuttgart,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
